@@ -1,0 +1,40 @@
+c:\users\akibara\documents\visual studio 2013\Projects\Barcode Reader\Barcode Reader\bin\Debug\Barcode Reader.exe.config
+C:\Users\Akibara\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\bin\Debug\Barcode Reader.exe
+C:\Users\Akibara\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\bin\Debug\Barcode Reader.pdb
+C:\Users\Akibara\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\obj\Debug\Barcode Reader.csprojResolveAssemblyReference.cache
+C:\Users\Akibara\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\obj\Debug\Barcode_Reader.Form1.resources
+C:\Users\Akibara\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\obj\Debug\Barcode_Reader.Properties.Resources.resources
+C:\Users\Akibara\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\obj\Debug\Barcode Reader.csproj.GenerateResource.Cache
+C:\Users\Akibara\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\obj\Debug\Barcode Reader.exe
+C:\Users\Akibara\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\obj\Debug\Barcode Reader.pdb
+C:\Users\Akibara\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\bin\Debug\AForge.Controls.dll
+C:\Users\Akibara\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Akibara\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\bin\Debug\AForge.Video.dll
+C:\Users\Akibara\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\bin\Debug\zxing.dll
+C:\Users\Akibara\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\bin\Debug\AForge.dll
+C:\Users\Akibara\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\bin\Debug\AForge.Imaging.dll
+C:\Users\Akibara\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\bin\Debug\AForge.Math.dll
+C:\Users\Akibara\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\bin\Debug\AForge.Controls.xml
+C:\Users\Akibara\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\bin\Debug\AForge.Video.xml
+C:\Users\Akibara\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Akibara\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\bin\Debug\AForge.xml
+C:\Users\Akibara\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\bin\Debug\AForge.Imaging.xml
+C:\Users\Akibara\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\bin\Debug\AForge.Math.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\bin\Debug\Barcode Reader.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\obj\Debug\Barcode Reader.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\obj\Debug\Barcode Reader.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\bin\Debug\Barcode Reader.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\bin\Debug\Barcode Reader.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\bin\Debug\AForge.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\bin\Debug\AForge.Imaging.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\bin\Debug\AForge.Math.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\bin\Debug\AForge.Controls.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\bin\Debug\AForge.Video.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\bin\Debug\AForge.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\bin\Debug\AForge.Imaging.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\bin\Debug\AForge.Math.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\obj\Debug\Barcode Reader.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\obj\Debug\Barcode_Reader.Form1.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\obj\Debug\Barcode_Reader.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\Barcode Reader\Barcode Reader\obj\Debug\Barcode Reader.csproj.GenerateResource.Cache
